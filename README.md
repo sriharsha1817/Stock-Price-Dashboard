@@ -80,9 +80,7 @@ streamlit run app.py
 python enhanced_rag_app.py
 ```
 
-### Access Points
-- **Dashboard**: http://localhost:8501
-- **Chatbot**: http://localhost:7865
+
 
 ## 💡 Usage Examples
 
