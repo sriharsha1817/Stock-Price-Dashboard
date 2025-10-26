@@ -1,0 +1,14 @@
+streamlit
+yfinance
+plotly
+prophet
+pandas
+ta
+newspaper3k
+beautifulsoup4
+openai
+kaleido
+gradio
+google-generativeai
+requests
+python-dotenv
